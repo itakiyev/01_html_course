@@ -1,0 +1,7 @@
+.topping {
+    display: grid;
+}
+
+.box {
+    grid-template-columns: 12;
+}
